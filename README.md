@@ -1,2 +1,2 @@
 # TinyOS
-It's a tiny operating system
+这是一个微型的操作系统
